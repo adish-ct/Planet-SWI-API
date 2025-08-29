@@ -6,4 +6,3 @@ class PlanetSerializer(serializers.ModelSerializer):
         model = Planet
         fields = '__all__'
 
-        
